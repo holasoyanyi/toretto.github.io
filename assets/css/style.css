@@ -1,3 +1,8 @@
 img{
     width: 350px;
 }
+
+body{
+    background: #000 url(https://img.freepik.com/foto-gratis/fondo-desenfoque-degradado-vintage-suave-color-pastel-que-usa-como-sala-estudio-presentacion-productos-pancarta_1258-71578.jpg?size=626&ext=jpg&ga=GA1.1.87170709.1706832000&semt=ais);
+    background-size: 100%;
+}
